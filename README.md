@@ -40,6 +40,7 @@ All repositories below are strictly production-grade: complete with automated Gi
 | [**sid-pdf**](https://github.com/arighmt67-bit/sid-pdf) | Next.js 16, FastAPI, PyMuPDF, Ghostscript, Tailwind v4 | Production Ready | [sidpdf.vercel.app](https://sidpdf.vercel.app) |
 | [**roadmap-todo**](https://github.com/arighmt67-bit/roadmap-todo) | Next.js 15, React, Tailwind CSS, LocalStorage | Production Ready | [roadmap-todo-pearl.vercel.app](https://roadmap-todo-pearl.vercel.app) |
 | [**back-end-engineering**](https://github.com/arighmt67-bit/back-end-engineering) | Node.js, Python (pytest), Rust (cargo) | [![CI](https://github.com/arighmt67-bit/back-end-engineering/actions/workflows/ci.yml/badge.svg)](https://github.com/arighmt67-bit/back-end-engineering/actions) | Multi-language matrix tests (100% green) |
+| [**react-developer**](https://github.com/arighmt67-bit/react-developer) | React 19, Redux Toolkit, Storybook, Cypress E2E | Production Ready | [github.com/arighmt67-bit/react-developer](https://github.com/arighmt67-bit/react-developer) |
 | [**front-end-engineer**](https://github.com/arighmt67-bit/front-end-engineer) | React 18, Vite, Lit, Webpack, TensorFlow.js | [![CI & Deploy](https://github.com/arighmt67-bit/front-end-engineer/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/arighmt67-bit/front-end-engineer/actions) | [arighmt67-bit.github.io/front-end-engineer](https://arighmt67-bit.github.io/front-end-engineer/) |
 
 ---
